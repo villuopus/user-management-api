@@ -1,0 +1,11 @@
+includes:
+
+parameters:
+    level: 8
+    paths:
+        - src
+    excludePaths:
+        - vendor
+    reportUnmatchedIgnoredErrors: false
+    checkMissingIterableValueType: true
+    checkGenericClassInNonGenericObjectType: false
