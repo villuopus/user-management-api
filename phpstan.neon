@@ -7,5 +7,3 @@ parameters:
     excludePaths:
         - vendor
     reportUnmatchedIgnoredErrors: false
-    checkMissingIterableValueType: true
-    checkGenericClassInNonGenericObjectType: false
